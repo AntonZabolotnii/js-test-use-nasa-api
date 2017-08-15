@@ -1,0 +1,5 @@
+{
+    "db": "mongodb://test:1qaz@ds145293.mlab.com:45293/test_eyrhfncs",
+    "baseApiUrl": "https://api.nasa.gov/neo/rest/v1/feed",
+    "api_key": "N7LkblDsc5aen05FJqBQ8wU4qSdmsftwJagVK7UD"
+}
